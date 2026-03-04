@@ -1,6 +1,7 @@
-# Skills and Artifacts Library — GitHub Setup & Version Control Guide
+### Skills and Artifacts Library  
+GitHub Setup & Version Control Guide
 
-## Repository Structure
+#### Repository Structure
 
 ```
 skills-library/
