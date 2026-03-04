@@ -1,6 +1,7 @@
 ## Claude Skills and Artifacts Library  
 GitHub Setup & Version Control Guide  
 
+
 #### Repository Structure
 ```
 skills-library/
