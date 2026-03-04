@@ -1,8 +1,7 @@
-### Skills and Artifacts Library  
-GitHub Setup & Version Control Guide
+#### Claude Skills and Artifacts Library  
+GitHub Setup & Version Control Guide  
 
 #### Repository Structure
-
 ```
 skills-library/
 ├── README.md                          # Overview, how to use, how to contribute
